@@ -25,7 +25,7 @@
             ],
             "background": true,
             "text": true,
-            "link": false,
+            "link": true,
             "custom": true,
             "duotone": [
                 { "slug": "k-pink-sunset", "colors": ["#11245e", "#dc4379"], "name": "konda Pink Sunset" }
